@@ -1,7 +1,10 @@
 [![](https://img.shields.io/badge/pypi-0.1.0.1-blue.svg)](https://pypi.python.org/pypi/blackdaemon/) <a href="https://github.com/ambv/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 
-A daemon to automatically run the Uncompromising Code Formatter [`black`](https://github.com/ambv/black) by watching a directory or file for changes.
+A daemon to automatically run the Uncompromising Code Formatter [`black`](https://github.com/ambv/black) by watching a directory or file for changes. [Try black online now](https://black.now.sh/).
+
+What is black?
+> Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
 
 ## Installation
 
